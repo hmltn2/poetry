@@ -3,7 +3,6 @@
 | --- | -- |
 | - Joseph Ehura | |
 | - Artificial Intelligence | |
-
 | - Ph.D. | |
 | - Research Application | |
 
