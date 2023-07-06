@@ -1,6 +1,6 @@
 # poetry
 | | |
------
+| --- | -- |
 | - Joseph Ehura | |
 | - Artificial Intelligence | |
 
